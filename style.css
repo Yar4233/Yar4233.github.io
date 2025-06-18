@@ -1,0 +1,82 @@
+body {
+    background: #222222;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+p, a, h1, h2 {
+    color: white;
+}
+
+img {
+    background: white;
+    border-radius: 99999999px;
+}
+
+header {
+    background: #333333;
+    margin: 10px;
+    font-size: 25px;
+    text-align: right;
+    color: gray;
+    padding: 15px;
+}
+
+html {
+    padding: 0;
+}
+
+option {
+    background-color: black;
+    color: rgb(11, 38, 54);
+}
+
+.yazik {
+    background-color: black;
+    color: rgb(46, 46, 46);
+    margin: 40px;
+    font-size: 30px;
+    border: 3px solid rgb(78, 74, 74);
+    border-radius: 10px;
+}
+
+header img {
+    background-color: transparent;
+}
+
+.headermarg {
+    margin: 10px;
+}
+
+.kartinochkimarg {
+    margin: 15px;
+}
+
+.sekretka {
+    color: #262626;
+}
+
+select {
+    background-color: #222222;
+    color: #222222;
+    margin: 40px;
+    font-size: 30px;
+    border: 3px solid #232323;
+    border-radius: 10px;
+}
+
+.kupit {
+    background-image: linear-gradient(to right, #00a2ff, #ff0062, #ff7b00);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.artem {
+    background-color: white;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 20px;
+}
